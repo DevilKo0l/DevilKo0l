@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/trung-nguyen-cao-303153172/)](https://www.linkedin.com/in/trung-nguyen-cao-303153172/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyen.tcao96@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/DevilWalker1337/)](https://leetcode.com/DevilWalker1337/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFFFFF?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/DevilWalker1337/)](https://leetcode.com/DevilWalker1337/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/DevilWalker1337/)](https://steamcommunity.com/id/DevilWalker1337/)
 
 ## 🧐 About
 
