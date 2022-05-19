@@ -11,6 +11,8 @@
 
 ## 🧐 About
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DevilKo0l&hide=stars,issues&count_private=true&show_icons=true"/>
+
 - 👨‍💻 My website: 
 - 📫 How to reach me: nguyen.tcao96@gmail.com
 - 🌱 Languages and Tools:
@@ -25,6 +27,6 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevilKo0l&hide=stars,issues&count_private=true&show_icons=true"/>
 
-⭐️ From [Johnathan Cao](https://github.com/Devilko0l)
+⭐️ From [Johnathan Cao](https://github.com/Devilko0l) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devilko0l)
