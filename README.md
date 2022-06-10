@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Nathan Cao](https://nathancao.vercel.app/)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗴𝗮𝗺𝗲𝘀 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
+𝗜'𝗺 [Nathan Cao](https://www.linkedin.com/in/trung-nguyen-cao-303153172/)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗴𝗮𝗺𝗲𝘀 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
@@ -11,8 +11,8 @@
 
 ## 🧐 About
 
-- 👨‍💻 My website: [nathancao.vercel.app](https://nathancao.vercel.app/)
-- 📫 How to reach me: nguyen.tcao96@gmail.com
+- 👨‍💻 [My website](https://nathancao.vercel.app/)
+- 📫 [Contact me](mailto:nguyen.tcao96@gmail.com)
 - 🌱 Languages and Tools:
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
